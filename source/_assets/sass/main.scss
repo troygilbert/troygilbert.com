@@ -11,3 +11,11 @@
 @import 'search';
 
 @tailwind utilities;
+
+body {
+    background: url(/assets/images/pawel-nolbert-291146-unsplash.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
